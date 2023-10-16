@@ -26,7 +26,7 @@
   </div>
 </div>
 
-## Contact
+ <h2 style="display: inline-block">Connect With Me🤝</h2>
 
 <p align="center">
   <a href="mailto:urielherrera412@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
