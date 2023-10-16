@@ -1,8 +1,3 @@
-
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
-</div> 
 <div align="center">
   <h1 align="center">Hi, I'm Dardo Uriel 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -11,21 +6,33 @@
   </p>
 
   <br>
-  
+
   <h2 align="center">About Me</h2>
 
-  <p align="center">
-    <img align="right" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" width="250px">
-  </p>
-
-  - 🏫 I'm currently a first-year student at the National Technological University (UTN) Mendoza, pursuing a university degree in programming.
-  - 🏆 I hold the title of Full Stack Web Developer and have actively contributed to the development of a functional website project.
-  - 👨‍💻 My primary focus in software engineering is to grow as a developer and enhance the industry with creative and innovative projects.
-  - 💻 My main programming languages include Java, MySQL, HTML, CSS, JavaScript, and Python.
-  - 🚀 What motivates me is the ever-evolving nature of the tech world, offering endless opportunities for learning and growth.
-  - 👀 I'm currently actively seeking job opportunities.
-  - 🌐 You can visit my [LinkedIn profile](https://www.linkedin.com/in/dardo-uriel-herrera-1a25b6281/) to learn more about my professional background.
+  <div style="display: flex">
+    <div style="display: flex">
+      <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" width="250px">
+    </div>
+    <div style="display: flex" >
+      <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="250px">
+    </div>
+    <div >
+      <ul style="display: flex">
+        <li>🏫 I'm currently a first-year student at the National Technological University (UTN) Mendoza, pursuing a university degree in programming.</li>
+        <li>🏆 I hold the title of Full Stack Web Developer and have actively contributed to the development of a functional website project.</li>
+        <li>👨‍💻 My primary focus in software engineering is to grow as a developer and enhance the industry with creative and innovative projects.</li>
+        <li>💻 My main programming languages include Java, MySQL, HTML, CSS, JavaScript, and Python.</li>
+        <li>🚀 What motivates me is the ever-evolving nature of the tech world, offering endless opportunities for learning and growth.</li>
+        <li>👀 I'm currently actively seeking job opportunities.</li>
+      </ul>
+      <p>🌐 You can visit my <a href="https://www.linkedin.com/in/dardo-uriel-herrera-1a25b6281/">LinkedIn profile</a> to learn more about my professional background.</p>
+    </div>
+  </div>
 </div>
+
+
+
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contacto
 
