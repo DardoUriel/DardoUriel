@@ -113,22 +113,22 @@
 ## My Repositories ✨
 
 <div align="center">
-  <a href="https://github.com/Davekibh/Background-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+  <a href="https://github.com/DardoUriel/Java-POO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DardoUriel&repo=Java-POO&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Davekibh/robofriends">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+  <a href="https://github.com/DardoUriel/Proyecto2023">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DardoUriel&repo=Proyecto2023&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Davekibh/Picture-Sharing-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+  <a href="https://github.com/DardoUriel/DardoUriel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DardoUriel&repo=DardoUriel&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Davekibh/Chat-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+  <a href="https://github.com/DardoUriel/HerreraDardoUrielRepositorioLaboratorio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DardoUriel&repo=HerreraDardoUrielRepositorioLaboratorio&theme=tokyonight" />
   </a>
- 
-  <a href="https://github.com/Davekibh/Quiz-Admin-App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+  <a href="https://github.com/DardoUriel/Herrera-Dardo-Uriel-Comision-A-Programacion1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DardoUriel&repo=Herrera-Dardo-Uriel-Comision-A-Programacion1&theme=tokyonight" />
   </a>
 </div>
+
 
 
