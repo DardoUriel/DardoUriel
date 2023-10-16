@@ -110,24 +110,13 @@
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-## My Repositories ✨
+## My Proyects ✨
 
 <div align="center">
-  <a href="https://github.com/DardoUriel/Java-POO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DardoUriel&repo=Java-POO&theme=tokyonight" />
+  <a href="https://github.com/PiensaMcfly/AppSalud">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PiensaMcfly&repo=AppSalud&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DardoUriel/Proyecto2023">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DardoUriel&repo=Proyecto2023&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/DardoUriel/DardoUriel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DardoUriel&repo=DardoUriel&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/DardoUriel/HerreraDardoUrielRepositorioLaboratorio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DardoUriel&repo=HerreraDardoUrielRepositorioLaboratorio&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/DardoUriel/Herrera-Dardo-Uriel-Comision-A-Programacion1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DardoUriel&repo=Herrera-Dardo-Uriel-Comision-A-Programacion1&theme=tokyonight" />
-  </a>
+
 </div>
 
 
