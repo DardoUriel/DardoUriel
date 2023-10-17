@@ -29,30 +29,11 @@
 ## 🛠️ My Skills
 
 ### Programming Languages
-
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="https://skillicons.dev" target="_blank"> 
+    <img  src="https://skillicons.dev/icons?i=js,html,css,javaScript,java,python,react,spring">
   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
-  </a>
-  <a href="https://spring.io/projects/spring-framework" target="_blank">
-    <img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
-  </a>
-  <a href="https://spring.io/projects/spring-security" target="_blank">
-    <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
-  </a>
-</div>
+  
 
 ### Frontend Development
 
