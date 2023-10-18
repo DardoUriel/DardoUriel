@@ -27,69 +27,57 @@
 </div>
 
 ## 🛠️ My Skills
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DardoUriel&show_icons=true&theme=tokyonight" alt="DardoUriel's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DardoUriel&theme=tokyonight" alt="DardoUriel GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-### Programming Languages
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DardoUriel&theme=tokyonight&layout=compact&langs_count=4)
+
+
+
+
+
+
+
+<h2 style="display: inline-block">Programming Languages</h2>
+
 <div align="center">
   <a href="https://skillicons.dev" target="_blank"> 
-    <img  src="https://skillicons.dev/icons?i=js,html,css,javaScript,java,python,react,spring">
-  </a>
-  
-
-### Frontend Development
-
-<div align="center">
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+    <img  src="https://skillicons.dev/icons?i=js,html,css,java,python,react,spring">
   </a>
 </div>
+<h2 style="display: inline-block"> Software & Tools</h2>
 
-### Software & Tools
 
-<div align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23181717.svg?style=plastic&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/>
+  <div align="center">
+  <a href="https://skillicons.dev" target="_blank"> 
+    <img  src="https://skillicons.dev/icons?i=github,mysql">
   </a>
 </div>
+<h2 style="display: inline-block">IDEs</h2>
 
-### IDEs
 
-<div align="center">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
-  </a>
-  <a href="https://netbeans.apache.org/" target="_blank">
-    <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-%23ED8B00.svg?style=plastic&logo=apache-netbeans-ide&logoColor=white" />
+  <div align="center" >
+  <a href="https://skillicons.dev" target="_blank"> 
+    <img  src="https://skillicons.dev/icons?i=vscode">
+    <img width="55" src="https://cdn3d.iconscout.com/3d/free/thumb/free-netbeans-5728461-4781225.png">
   </a>
 </div>
+<h2 style="display: inline-block">Operating Systems</h2>
 
-### Operating Systems
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-## My Proyects ✨
-
-<div align="center">
-  <a href="https://github.com/PiensaMcfly/AppSalud">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PiensaMcfly&repo=AppSalud&theme=tokyonight" />
-  </a>
-
+ <div align="center" >
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Windows_10x_Icon.png/1024px-Windows_10x_Icon.png" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Windows_10x_Icon.png/1024px-Windows_10x_Icon.png" height="30" width="40" />
+</a>
 </div>
 <h2 style="display: inline-block">Connect With Me🤝</h2>
 
@@ -101,5 +89,14 @@
   <a href="https://wa.me/2615439974"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://www.linkedin.com/in/dardo-uriel-herrera-1a25b6281/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
+<h2 style="display: inline-block">My Proyects ✨</h2>
+<div align="center">
+  <a href="https://github.com/PiensaMcfly/AppSalud">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PiensaMcfly&repo=AppSalud&theme=tokyonight" />
+  </a>
+
+</div>
+
 
 
