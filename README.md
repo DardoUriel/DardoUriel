@@ -32,9 +32,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank"> 
-    <img width="55" src="https://skillicons.dev/icons?i=js,html,css,python,react,spring">
-    <img width="55" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
-    <img width="55" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
+    <img width="55" alt="55" src="https://skillicons.dev/icons?i=js,html,css,python,react,spring">
+    <img width="55" alt="55" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
+    <img width="55" alt="55" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
     
   </a>
 </div>
@@ -46,9 +46,9 @@
     <img src="https://skillicons.dev/icons?i=github,mysql" alt="GitHub and MySQL Icons">
   </a>
   <a href="https://mariadb.org" target="_blank">
-    <img src="	https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="40" height="40">
+    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="40" height="40">
      <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" width="40" height="40">
-       <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="Bootstrap" width="40" height="40">
+       <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="maria db" width="40" height="40">
 
   </a>
 </div>
