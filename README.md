@@ -27,26 +27,6 @@
 </div>
 
 ## 🛠️ My Skills
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DardoUriel&show_icons=true&theme=tokyonight" alt="DardoUriel's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DardoUriel&theme=tokyonight" alt="DardoUriel GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DardoUriel&theme=tokyonight&layout=compact&langs_count=4)
-
-
-
-
-
-
 
 <h2 style="display: inline-block">Programming Languages</h2>
 
@@ -72,13 +52,15 @@
     <img width="55" src="https://cdn3d.iconscout.com/3d/free/thumb/free-netbeans-5728461-4781225.png">
   </a>
 </div>
-<h2 style="display: inline-block">Operating Systems</h2>
 
- <div align="center" >
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Windows_10x_Icon.png/1024px-Windows_10x_Icon.png" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Windows_10x_Icon.png/1024px-Windows_10x_Icon.png" height="30" width="40" />
-</a>
-</div>
+
+
+<h2 style="display: inline-block">My Proyects ✨</h2>
+<div align="center">
+  <a href="https://github.com/PiensaMcfly/AppSalud">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PiensaMcfly&repo=AppSalud&theme=tokyonight" />
+  </a>
+
 <h2 style="display: inline-block">Connect With Me🤝</h2>
 
 <p align="center">
@@ -89,12 +71,20 @@
   <a href="https://wa.me/2615439974"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://www.linkedin.com/in/dardo-uriel-herrera-1a25b6281/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+  <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DardoUriel&show_icons=true&theme=tokyonight" alt="DardoUriel's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DardoUriel&theme=tokyonight" alt="DardoUriel GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<h2 style="display: inline-block">My Proyects ✨</h2>
-<div align="center">
-  <a href="https://github.com/PiensaMcfly/AppSalud">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PiensaMcfly&repo=AppSalud&theme=tokyonight" />
-  </a>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DardoUriel&theme=tokyonight&layout=compact&langs_count=4)
 
 </div>
 
