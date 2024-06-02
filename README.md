@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=github,mysql" alt="GitHub and MySQL Icons">
   </a>
   <a href="https://mariadb.org" target="_blank">
-    <img src="https://iconscout.com/free-icon/mariadb" alt="MariaDB Logo" width="40" height="40">
+    <img src="[https://iconscout.com/free-icon/mariadb](https://imgs.search.brave.com/7sbpR-OUwvFSSfQcV4vnKW3riWVDdkeOKdfs70grxIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LW1hcmlhZGItMjI2/MDIyLnBuZz9mPXdl/YnAmdz0yNTY)" alt="MariaDB Logo" width="40" height="40">
   </a>
 </div>
 
