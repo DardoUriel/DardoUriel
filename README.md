@@ -31,12 +31,23 @@
 <h2 style="display: inline-block">Programming Languages</h2>
 
 <div align="center">
+  <div align="center">
   <a href="https://skillicons.dev" target="_blank"> 
-    <img width="55" alt="55" src="https://skillicons.dev/icons?i=js,html,css,python,react,spring">
-    <img width="55" alt="55" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
-    <img width="55" alt="55" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
-    
+    <img width="55" src="https://skillicons.dev/icons?i=js" alt="JavaScript icon">
+    <img width="55" src="https://skillicons.dev/icons?i=html" alt="HTML icon">
+    <img width="55" src="https://skillicons.dev/icons?i=css" alt="CSS icon">
+    <img width="55" src="https://skillicons.dev/icons?i=python" alt="Python icon">
+    <img width="55" src="https://skillicons.dev/icons?i=react" alt="React icon">
+    <img width="55" src="https://skillicons.dev/icons?i=spring" alt="Spring icon">
   </a>
+</div>
+<div align="center">
+  <a href="https://skillicons.dev" target="_blank"> 
+    <img width="55" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Logo 1">
+    <img width="55" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Logo 2">
+  </a>
+</div>
+
 </div>
 <h2 style="display: inline-block"> Software & Tools</h2>
 
