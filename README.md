@@ -50,12 +50,14 @@
 <h2 style="display: inline-block">IDEs</h2>
 
 
-  <div align="center" >
+  <div align="center">
   <a href="https://skillicons.dev" target="_blank"> 
-    <img  src="https://skillicons.dev/icons?i=vscode">
-    <img width="55" src="https://cdn3d.iconscout.com/3d/free/thumb/free-netbeans-5728461-4781225.png">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon">
+    <img width="55" src="https://cdn3d.iconscout.com/3d/free/thumb/free-netbeans-5728461-4781225.png" alt="NetBeans icon">
+    <img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" alt="MariaDB icon">
   </a>
 </div>
+
 
 
 
