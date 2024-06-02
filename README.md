@@ -38,11 +38,15 @@
 <h2 style="display: inline-block"> Software & Tools</h2>
 
 
-  <div align="center">
+<div align="center">
   <a href="https://skillicons.dev" target="_blank"> 
-    <img  src="https://skillicons.dev/icons?i=github,mysql">
+    <img src="https://skillicons.dev/icons?i=github,mysql" alt="GitHub and MySQL Icons">
+  </a>
+  <a href="https://mariadb.org" target="_blank">
+    <img src="https://iconscout.com/free-icon/mariadb" alt="MariaDB Logo" width="40" height="40">
   </a>
 </div>
+
 <h2 style="display: inline-block">IDEs</h2>
 
 
