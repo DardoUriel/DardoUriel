@@ -10,7 +10,7 @@
   <h2>About Me</h2>
 
   <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" width="250">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250">
     <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="360">
     <div style="flex: 1;">
       <ul>
@@ -54,13 +54,15 @@
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=github,mysql" alt="GitHub and MySQL Icons">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="GitHub and MySQL Icons">
   </a>
   <a href="https://mariadb.org" target="_blank">
     <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="40" height="40">
      <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" width="40" height="40">
        <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="maria db" width="40" height="40">
-
+ <a href="https://skillicons.dev" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub and MySQL Icons">
+  </a>
   </a>
 </div>
 
